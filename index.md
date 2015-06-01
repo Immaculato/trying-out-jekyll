@@ -3,9 +3,9 @@ title: Hello, World!
 layout: default
 ---
 
-# Hello World
+# Hello!
 
-My name is Tristan Basil. I am a Sophomore at UK, and I currently am interning at CirrusMio, a local software development company. I also am working over the summer for Kelly Nursery, a local plant nursery to Lexington. I have experience with Python, Arduino, and (basic) Jekyll.
+My name is Tristan Basil. I am a Sophomore at UK, and I currently am interning at CirrusMio, a local software development company. I also am working over the summer for Kelly Nursery, a local plant nursery to Lexington. I have experience with Python, Arduino, and (basic) Jekyll. If you would like to view my resume, it is located under the "About" tab.
 
 ### Contact information
 
