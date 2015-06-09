@@ -27,7 +27,12 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-image: url("/img/uk.jpeg");
+  background-image:
+    linear-gradient(
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.4)
+    ),
+    url("/img/uk.jpeg");
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
@@ -38,8 +43,6 @@ body {
 }
 
 .text-box-fade {
-  -webkit-text-stroke-width: .05px;
-  -webkit-text-stroke-color: black;
   color: white;
   padding: 25px;
   border: 25px navy;
